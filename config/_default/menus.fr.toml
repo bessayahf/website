@@ -1,0 +1,53 @@
+# -- Menu Principal --
+# Le menu principal est affiché dans l'en-tête en haut de la page.
+# Paramètres acceptés : name, pageRef, page, url, title, weight.
+# 
+# La configuration de menu la plus simple consiste à fournir :
+#   name = Le nom à afficher pour ce lien de menu
+#   pageRef = L'identifiant de la page ou de la section à lier
+#
+# Par défaut, le menu est trié par ordre alphabétique. Cela peut être
+# remplacé en fournissant une valeur de poids. Le menu sera alors
+# trié par poids du plus petit au plus grand.
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+
+#[[main]]
+#  name = "Projets"
+#  pageRef = "projects"
+#  weight = 20
+
+#[[main]]
+#  name = "À propos"
+#  pageRef = "about"
+#  weight = 30
+
+#[[main]]
+#  name = "Catégories"
+#  pageRef = "categories"
+#  weight = 40
+
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 50
+
+
+# -- Menu Pied de page --
+# Le menu du pied de page est affiché en bas de la page, juste avant
+# la mention de copyright. Configurer comme pour le menu principal ci-dessus.
+
+
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
+
+# [[footer]]
+#   name = "Catégories"
+#   pageRef = "categories"
+#   weight = 20
+
