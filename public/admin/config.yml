@@ -1,0 +1,51 @@
+backend:
+  name: github
+  repo: bessayahf/website
+  branch: main
+  base_url: https://api.netlify.com # Pour l'authentification
+  auth_endpoint: auth
+
+# Configuration locale pour tester en développement
+# Décommentez ces lignes et commentez la section backend ci-dessus pour tester localement
+# backend:
+#   name: git-gateway
+
+# Publication des drafts
+publish_mode: editorial_workflow
+
+# Configuration des médias
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+# Configuration de la langue
+locale: "fr"
+
+# Collections
+collections:
+  - name: "posts"
+    label: "Articles"
+    folder: "content/posts"
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
+    create: true
+    slug: "{{slug}}"
+    preview_path: "posts/{{slug}}"
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Date de publication", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Brouillon", name: "draft", widget: "boolean", default: true }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Image de couverture", name: "feature_image", widget: "image", required: false, hint: "Image qui s'affichera en haut de l'article" }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+        hint: "Appuyez sur Entrée après chaque tag"
+      - label: "Catégories"
+        name: "categories"
+        widget: "list"
+        default: ["Blog"]
+        hint: "Appuyez sur Entrée après chaque catégorie"
+      - { label: "Contenu", name: "body", widget: "markdown" }
+
