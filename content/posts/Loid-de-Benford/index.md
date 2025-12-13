@@ -1,6 +1,6 @@
 ---
 title: "La loi de Benford : l’outil anti-fraude que la plupart des analystes n’utilisent jamais"
-date: 2025-12-12
+date: 2025-12-13
 draft: false
 description: "Découvrez comment la loi de Benford, un principe statistique méconnu, permet de détecter anomalies, fraudes et manipulations de données grâce à l’analyse des premiers chiffres."
 tags: [
