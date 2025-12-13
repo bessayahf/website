@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>© 2025 Fayçal Bessayah</copyright>
-    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>La loi de Benford : l’outil anti-fraude que la plupart des analystes n’utilisent jamais</title>
+      <link>http://localhost:1313/posts/loid-de-benford/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/loid-de-benford/</guid>
+      <description>&lt;p&gt;Souvent, lorsqu&amp;rsquo;on parle d’analyse de données et de détection de fraude, l’attention se porte souvent sur des modèles complexes, des approches basées sur l’intelligence artificielle ou des outils d’audit avancés.&lt;/p&gt;
+&lt;p&gt;Pourtant, certains des leviers les plus efficaces reposent sur des principes statistiques simples.&lt;/p&gt;
+&lt;p&gt;La &lt;strong&gt;loi de Benford&lt;/strong&gt; en fait partie.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/loid-de-benford/feature.png" />
+    </item>
     
     <item>
       <title>Le paradoxe de Simpson : comprendre un piège statistique contre-intuitif</title>
@@ -15,7 +27,8 @@
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/simpson_paradox/</guid>
-      <description></description>
+      <description>&lt;img src=&#34;feature.png&#34; alt=&#34;Segmentation clients par clustering&#34; style=&#34;width: 70%; height: auto; display: block; margin: 0 auto 2rem auto;&#34;&gt;
+&lt;p&gt;Le paradoxe de Simpson est l’un des phénomènes les plus déroutants des statistiques. Il survient lorsqu’une tendance observée dans plusieurs groupes distincts &lt;strong&gt;s’inverse complètement&lt;/strong&gt; lorsque ces groupes sont combinés.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/simpson_paradox/feature.png" />
     </item>
     

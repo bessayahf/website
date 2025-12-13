@@ -9,7 +9,7 @@ categories: ["Blog"]
 <img src="feature.png" alt="Segmentation clients par clustering" style="width: 70%; height: auto; display: block; margin: 0 auto 2rem auto;">
 
 
-Le paradoxe de Simpson est l’un des phénomènes les plus déroutants des statistiques. Il survient lorsqu’une tendance observée dans plusieurs groupes distincts **s’inverse complètement** lorsque ces groupes sont combinés. Autrement dit, **ce qui semble vrai dans chaque sous-groupe peut devenir faux lorsqu’on analyse les données globalement**.
+Le paradoxe de Simpson est l’un des phénomènes les plus déroutants des statistiques. Il survient lorsqu’une tendance observée dans plusieurs groupes distincts **s’inverse complètement** lorsque ces groupes sont combinés. <!--more-->Autrement dit, **ce qui semble vrai dans chaque sous-groupe peut devenir faux lorsqu’on analyse les données globalement**.
 
 Ce phénomène a des implications majeures en médecine, en économie, en marketing ou en sciences sociales. Le comprendre est essentiel pour éviter des conclusions erronées dans l’analyse de données hétérogènes.
 

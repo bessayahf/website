@@ -79,5 +79,105 @@
       
     </item>
     
+    <item>
+      <title>Analytics</title>
+      <link>http://localhost:1313/tags/analytics/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/analytics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Audit</title>
+      <link>http://localhost:1313/tags/audit/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/audit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Benford&#39;s Law</title>
+      <link>http://localhost:1313/tags/benfords-law/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/benfords-law/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>http://localhost:1313/tags/data-analysis/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Quality</title>
+      <link>http://localhost:1313/tags/data-quality/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-quality/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>http://localhost:1313/tags/data-science/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-science/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/tags/finance/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/finance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fraud Detection</title>
+      <link>http://localhost:1313/tags/fraud-detection/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/fraud-detection/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>http://localhost:1313/tags/statistics/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/statistics/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
