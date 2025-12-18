@@ -20,4 +20,5 @@ title = "Home"
   links = [
     { github = "https://github.com/fbessayah" },
     { linkedin = "https://www.linkedin.com/in/fay%C3%A7al-bessayah-0a4b632b/" },
+        { medium = "https://medium.com/@fbessayah/" }
   ]
