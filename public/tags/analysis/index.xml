@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analysis on Home</title>
+    <link>http://localhost:1314/tags/analysis/</link>
+    <description>Recent content in Analysis on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Fayçal Bessayah</copyright>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Simpson&#39;s Paradox: Understanding a Counter-Intuitive Statistical Trap</title>
+      <link>http://localhost:1314/posts/simpson_paradox/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/posts/simpson_paradox/</guid>
+      <description>&lt;img src=&#34;feature.png&#34; alt=&#34;Simpson&#39;s Paradox illustration&#34; style=&#34;width: 70%; height: auto; display: block; margin: 0 auto 2rem auto;&#34;&gt;
+&lt;p&gt;Simpson’s paradox is one of the most puzzling phenomena in statistics. It occurs when a trend observed in several distinct groups &lt;strong&gt;completely reverses&lt;/strong&gt; once those groups are combined. In other words, &lt;strong&gt;what appears true within each subgroup can become false when the data is analyzed as a whole&lt;/strong&gt;.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1314/posts/simpson_paradox/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

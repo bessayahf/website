@@ -1,0 +1,38 @@
+{{ if hugo.IsMultilingual }}
+  <div>
+    <div class="cursor-pointer flex items-center nested-menu">
+      <span class="me-1 text-lg">
+        {{ .Site.Language.Params.displayName | emojify }}
+      </span>
+    </div>
+    <div class="absolute menuhide">
+      <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
+        <div class="flex flex-col space-y-3">
+          {{ if .IsTranslated }}
+            {{ range .AllTranslations }}
+              <a href="{{ .RelPermalink }}" class="flex items-center">
+                <p
+                  class="text-sm font-sm hover:text-primary-600 dark:hover:text-primary-400"
+                  title="{{ .Title }}">
+                  {{ .Language.Params.displayName | emojify }}
+                </p>
+              </a>
+            {{ end }}
+          {{ else }}
+            {{ range site.Languages }}
+              {{ if ne .Lang $.Site.Language.Lang }}
+                <a href="/{{ .Lang }}/" class="flex items-center">
+                  <p
+                    class="text-sm font-sm hover:text-primary-600 dark:hover:text-primary-400"
+                    title="{{ .LanguageName }}">
+                    {{ .Params.displayName | emojify }}
+                  </p>
+                </a>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}

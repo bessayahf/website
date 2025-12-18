@@ -1,11 +1,11 @@
 disabled = false
 languageCode = "fr"
 languageName = "Français"
-weight = 1
+weight = 2
 title = "Accueil"
 
 [params]
-  displayName = "FR"
+  displayName = "🇫🇷 FR"
   isoCode = "fr"
   rtl = false
   dateFormat = "2 January 2006"

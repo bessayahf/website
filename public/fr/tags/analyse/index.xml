@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analyse on Accueil</title>
+    <link>http://localhost:1314/fr/tags/analyse/</link>
+    <description>Recent content in Analyse on Accueil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© 2025 Fayçal Bessayah</copyright>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/fr/tags/analyse/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Le paradoxe de Simpson : comprendre un piège statistique contre-intuitif</title>
+      <link>http://localhost:1314/fr/posts/simpson_paradox/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1314/fr/posts/simpson_paradox/</guid>
+      <description>&lt;img src=&#34;feature.png&#34; alt=&#34;Segmentation clients par clustering&#34; style=&#34;width: 70%; height: auto; display: block; margin: 0 auto 2rem auto;&#34;&gt;
+&lt;p&gt;Le paradoxe de Simpson est l’un des phénomènes les plus déroutants des statistiques. Il survient lorsqu’une tendance observée dans plusieurs groupes distincts &lt;strong&gt;s’inverse complètement&lt;/strong&gt; lorsque ces groupes sont combinés.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1314/posts/simpson_paradox/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

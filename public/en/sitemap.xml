@@ -3,18 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/en/</loc>
+    <loc>http://localhost:1314/posts/loid-de-benford/</loc>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/"
+      href="http://localhost:1314/fr/posts/loid-de-benford/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/"
+      href="http://localhost:1314/posts/loid-de-benford/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1314/posts/</loc>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1314/fr/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1314/posts/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1314/</loc>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1314/fr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1314/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1314/posts/simpson_paradox/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1314/fr/posts/simpson_paradox/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1314/posts/simpson_paradox/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1314/posts/segmentation-clients/</loc>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1314/fr/posts/segmentation-clients/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1314/posts/segmentation-clients/"
     />
   </url>
 </urlset>
