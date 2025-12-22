@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Segmentation on Home</title>
-    <link>http://localhost:60631/tags/segmentation/</link>
+    <link>http://localhost:1313/tags/segmentation/</link>
     <description>Recent content in Segmentation on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Fayçal Bessayah</copyright>
-    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:60631/tags/segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/segmentation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Customer Segmentation: Transforming Data into Marketing Decisions</title>
-      <link>http://localhost:60631/posts/segmentation-clients/</link>
+      <link>http://localhost:1313/posts/segmentation-clients/</link>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60631/posts/segmentation-clients/</guid>
+      <guid>http://localhost:1313/posts/segmentation-clients/</guid>
       <description>&lt;img src=&#34;feature.png&#34; alt=&#34;Customer segmentation through clustering&#34; style=&#34;width: 50%; height: auto; display: block; margin: 0 auto 2rem auto;&#34;&gt;
 &lt;p&gt;In today&amp;rsquo;s hyper-competitive e-commerce landscape — where buying behaviors evolve faster than ever — businesses need a deep understanding of their customers to make smarter strategic decisions.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60631/posts/segmentation-clients/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/segmentation-clients/feature.png" />
     </item>
     
   </channel>

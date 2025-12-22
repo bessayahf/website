@@ -2,169 +2,229 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Home</title>
-    <link>http://localhost:60631/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Fayçal Bessayah</copyright>
-    <lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:60631/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Analytics</title>
-      <link>http://localhost:60631/tags/analytics/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60631/tags/analytics/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Audit</title>
-      <link>http://localhost:60631/tags/audit/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      <title>AI Fundamentals</title>
+      <link>http://localhost:1313/tags/ai-fundamentals/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60631/tags/audit/</guid>
+      <guid>http://localhost:1313/tags/ai-fundamentals/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Benford&#39;s Law</title>
-      <link>http://localhost:60631/tags/benfords-law/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      <title>LLM</title>
+      <link>http://localhost:1313/tags/llm/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60631/tags/benfords-law/</guid>
+      <guid>http://localhost:1313/tags/llm/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Data Analysis</title>
-      <link>http://localhost:60631/tags/data-analysis/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      <title>LLM Engineering</title>
+      <link>http://localhost:1313/tags/llm-engineering/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60631/tags/data-analysis/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Data Quality</title>
-      <link>http://localhost:60631/tags/data-quality/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60631/tags/data-quality/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Data Science</title>
-      <link>http://localhost:60631/tags/data-science/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60631/tags/data-science/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Finance</title>
-      <link>http://localhost:60631/tags/finance/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60631/tags/finance/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Fraud Detection</title>
-      <link>http://localhost:60631/tags/fraud-detection/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60631/tags/fraud-detection/</guid>
+      <guid>http://localhost:1313/tags/llm-engineering/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:60631/tags/machine-learning/</link>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RAG</title>
+      <link>http://localhost:1313/tags/rag/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/rag/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transformers</title>
+      <link>http://localhost:1313/tags/transformers/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/transformers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Analytics</title>
+      <link>http://localhost:1313/tags/analytics/</link>
       <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60631/tags/machine-learning/</guid>
+      <guid>http://localhost:1313/tags/analytics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Audit</title>
+      <link>http://localhost:1313/tags/audit/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/audit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Benford&#39;s Law</title>
+      <link>http://localhost:1313/tags/benfords-law/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/benfords-law/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>http://localhost:1313/tags/data-analysis/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Quality</title>
+      <link>http://localhost:1313/tags/data-quality/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-quality/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>http://localhost:1313/tags/data-science/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-science/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/tags/finance/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/finance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fraud Detection</title>
+      <link>http://localhost:1313/tags/fraud-detection/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/fraud-detection/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Statistics</title>
-      <link>http://localhost:60631/tags/statistics/</link>
+      <link>http://localhost:1313/tags/statistics/</link>
       <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60631/tags/statistics/</guid>
+      <guid>http://localhost:1313/tags/statistics/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Analysis</title>
-      <link>http://localhost:60631/tags/analysis/</link>
+      <link>http://localhost:1313/tags/analysis/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60631/tags/analysis/</guid>
+      <guid>http://localhost:1313/tags/analysis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data</title>
-      <link>http://localhost:60631/tags/data/</link>
+      <link>http://localhost:1313/tags/data/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60631/tags/data/</guid>
+      <guid>http://localhost:1313/tags/data/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Paradox</title>
-      <link>http://localhost:60631/tags/paradox/</link>
+      <link>http://localhost:1313/tags/paradox/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60631/tags/paradox/</guid>
+      <guid>http://localhost:1313/tags/paradox/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Marketing</title>
-      <link>http://localhost:60631/tags/marketing/</link>
+      <link>http://localhost:1313/tags/marketing/</link>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60631/tags/marketing/</guid>
+      <guid>http://localhost:1313/tags/marketing/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RFM</title>
-      <link>http://localhost:60631/tags/rfm/</link>
+      <link>http://localhost:1313/tags/rfm/</link>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60631/tags/rfm/</guid>
+      <guid>http://localhost:1313/tags/rfm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Segmentation</title>
-      <link>http://localhost:60631/tags/segmentation/</link>
+      <link>http://localhost:1313/tags/segmentation/</link>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60631/tags/segmentation/</guid>
+      <guid>http://localhost:1313/tags/segmentation/</guid>
       <description></description>
       
     </item>

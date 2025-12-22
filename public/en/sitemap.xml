@@ -3,83 +3,89 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:60631/posts/loid-de-benford/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/fr/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/posts/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/fr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/llm-notes/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/loid-de-benford/</loc>
     <lastmod>2025-12-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:60631/fr/posts/loid-de-benford/"
+      href="http://localhost:1313/fr/posts/loid-de-benford/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:60631/posts/loid-de-benford/"
+      href="http://localhost:1313/posts/loid-de-benford/"
     />
   </url>
   <url>
-    <loc>http://localhost:60631/posts/</loc>
-    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="http://localhost:60631/fr/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:60631/posts/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:60631/</loc>
-    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="http://localhost:60631/fr/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:60631/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:60631/posts/simpson_paradox/</loc>
+    <loc>http://localhost:1313/posts/simpson_paradox/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:60631/fr/posts/simpson_paradox/"
+      href="http://localhost:1313/fr/posts/simpson_paradox/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:60631/posts/simpson_paradox/"
+      href="http://localhost:1313/posts/simpson_paradox/"
     />
   </url>
   <url>
-    <loc>http://localhost:60631/posts/segmentation-clients/</loc>
+    <loc>http://localhost:1313/posts/segmentation-clients/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:60631/fr/posts/segmentation-clients/"
+      href="http://localhost:1313/fr/posts/segmentation-clients/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:60631/posts/segmentation-clients/"
+      href="http://localhost:1313/posts/segmentation-clients/"
     />
   </url>
 </urlset>

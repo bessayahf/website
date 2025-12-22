@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Segmentation on Accueil</title>
-    <link>http://localhost:60631/fr/tags/segmentation/</link>
+    <link>http://localhost:1313/fr/tags/segmentation/</link>
     <description>Recent content in Segmentation on Accueil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>© 2025 Fayçal Bessayah</copyright>
-    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:60631/fr/tags/segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/segmentation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Segmentation de clients : transformer les données en décisions marketing</title>
-      <link>http://localhost:60631/fr/posts/segmentation-clients/</link>
+      <link>http://localhost:1313/fr/posts/segmentation-clients/</link>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60631/fr/posts/segmentation-clients/</guid>
+      <guid>http://localhost:1313/fr/posts/segmentation-clients/</guid>
       <description>&lt;img src=&#34;feature.png&#34; alt=&#34;Segmentation clients par clustering&#34; style=&#34;width: 50%; height: auto; display: block; margin: 0 auto 2rem auto;&#34;&gt;
 &lt;p&gt;Dans un environnement e-commerce ultra-concurrentiel, où les comportements d&amp;rsquo;achat évoluent rapidement, il est nécessaire de disposer d&amp;rsquo;une compréhension fine de sa clientèle pour pouvoir orienter éfficacement ses décisions sratégiques.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60631/posts/segmentation-clients/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/segmentation-clients/feature.png" />
     </item>
     
   </channel>
