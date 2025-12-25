@@ -1,5 +1,3 @@
-
-
 ---
 title: "My LLM Cheatsheet: Concepts, Training, and Best Practices 🧠✨"
 date: 2025-12-22

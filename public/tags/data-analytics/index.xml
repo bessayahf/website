@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science on Home</title>
-    <link>http://localhost:1313/tags/data-science/</link>
-    <description>Recent content in Data Science on Home</description>
+    <title>Data Analytics on Home</title>
+    <link>http://localhost:1313/tags/data-analytics/</link>
+    <description>Recent content in Data Analytics on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Fayçal Bessayah</copyright>
-    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Business Problems Every Data Analyst Needs to Master</title>
@@ -17,17 +17,6 @@
       <guid>http://localhost:1313/posts/business-problems/</guid>
       <description>&lt;p&gt;When you start your journey as a data analyst, it’s tempting to think that acing SQL queries, building complex dashboards, or mastering every new BI tool is the key to success. After all, technical skills are visible, tangible, and measurable. But here’s the hard truth: &lt;strong&gt;technical skills alone won’t make you indispensable&lt;/strong&gt;.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/business-problems/feature.png" />
-    </item>
-    
-    <item>
-      <title>Benford&#39;s Law: The Anti-Fraud Tool Most Analysts Never Use</title>
-      <link>http://localhost:1313/posts/loid-de-benford/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/loid-de-benford/</guid>
-      <description>&lt;p&gt;When we talk about data fraud detection, most people think of complex models, AI pipelines, or forensic accounting teams armed with custom algorithms.&lt;br&gt;
-But sometimes, one of the most powerful tools is also one of the simplest.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/loid-de-benford/feature.png" />
     </item>
     
   </channel>
