@@ -6,8 +6,19 @@
     <description>Recent content in Blog on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Fayçal Bessayah</copyright>
-    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Fayçal Bessayah</copyright>
+    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why Most BI Dashboards Fail (And How to Fix Them)</title>
+      <link>http://localhost:1313/posts/dashboard-design/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/dashboard-design/</guid>
+      <description>&lt;p&gt;Most BI dashboards fail for one simple reason: &lt;strong&gt;they start with visuals, not decisions&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In many organizations, dashboards are treated as design exercises. The focus quickly shifts to charts, colors, and layouts, while the most important questions remain unanswered:&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/dashboard-design/feature.png" />
+    </item>
     
     <item>
       <title>The Business Problems Every Data Analyst Needs to Master</title>
